@@ -205,7 +205,7 @@ PyDispatcher==2.0.5
 pydocstyle==6.3.0
 pyerfa==2.0.0
 pyflakes==3.0.1
-Pygments==2.11.2
+Pygments==2.15.0
 PyHamcrest==2.0.2
 PyJWT==2.4.0
 pylint==2.16.2
