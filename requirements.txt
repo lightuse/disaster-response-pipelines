@@ -255,7 +255,7 @@ scikit-image==0.19.3
 scikit-learn==1.2.1
 scikit-learn-intelex==20230228.214818
 scipy==1.10.0
-Scrapy==2.8.0
+Scrapy==2.11.1
 seaborn==0.12.2
 Send2Trash==1.8.0
 service-identity==18.1.0
