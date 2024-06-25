@@ -252,7 +252,7 @@ ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
 ruamel-yaml-conda==0.17.21
 scikit-image==0.19.3
-scikit-learn==1.2.1
+scikit-learn==1.5.0
 scikit-learn-intelex==20230228.214818
 scipy==1.10.0
 Scrapy==2.11.2
