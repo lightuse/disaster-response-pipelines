@@ -259,7 +259,7 @@ Scrapy==2.11.2
 seaborn==0.12.2
 Send2Trash==1.8.0
 service-identity==18.1.0
-setuptools==65.6.3
+setuptools==70.0.0
 sip==6.6.2
 six==1.16.0
 smart-open==5.2.1
