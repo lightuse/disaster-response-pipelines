@@ -303,7 +303,7 @@ tornado==6.4.1
 tqdm==4.66.3
 traitlets==5.7.1
 transformers==4.38.0
-Twisted==23.10.0
+Twisted==24.7.0
 twisted-iocpsupport==1.0.2
 typing_extensions==4.4.0
 ujson==5.4.0
