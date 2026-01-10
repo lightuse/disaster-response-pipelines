@@ -308,7 +308,7 @@ twisted-iocpsupport==1.0.2
 typing_extensions==4.4.0
 ujson==5.4.0
 Unidecode==1.2.0
-urllib3==2.6.0
+urllib3==2.6.3
 w3lib==1.21.0
 watchdog==2.1.6
 wcwidth==0.2.5
